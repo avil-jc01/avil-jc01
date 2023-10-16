@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avil-jc01 - www.johnavila.dev
 - 👀 I’m interested in programming, networks, and wireless
-- 🌱 I’m currently studying CS - Bachelor's of Science
+- 🌱 I’m currently studying CS - Bachelor's of Science - complete May 2023!
 - 💞️ I’m looking to collaborate on open source & interesting projects
 - 📫 How to reach me: 
   - discord: javi46#5981
